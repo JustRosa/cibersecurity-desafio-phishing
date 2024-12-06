@@ -82,6 +82,8 @@ Este documento descreve o processo de configuração e execução de um ataque d
 ## Resultados
 As credenciais inseridas no site clonado serão capturadas e salvas em arquivos de log no diretório do SET.
 
+![passwd](https://github.com/user-attachments/assets/63341764-1345-41a3-9ed9-8fbeadc7ff31)
+
 
 ---
 
